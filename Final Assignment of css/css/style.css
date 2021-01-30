@@ -1,0 +1,46 @@
+div#social-media-bar, div#social-media-bar > *{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 1%;
+    
+ 
+}
+
+div#social-media-bar>p{
+    margin-bottom: 0rem !important;
+}
+
+.highlight-green {
+    color: #fff;
+    background-color: lightgreen;
+    padding: 50px 0;
+  }
+  
+  
+ h1{
+     font-size: 4rem;
+ }
+  
+ div#circle{
+     border-radius: 50%;
+     height: 75%;
+     background-color: lightgrey;
+ }
+
+ .team-clean {
+    color: #313437;
+    background-color: #fff;
+  }
+  
+ ul{
+     list-style-type: none;
+     display: flex;
+     justify-content:center;
+ }
+ ul >li{
+     padding-right: 5%;;
+ }
+
+ .bg-dark{
+     background-color: black !important;
+ }
